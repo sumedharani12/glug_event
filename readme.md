@@ -18,7 +18,7 @@ DB_PASSWORD='database_password'
 DB_DATABASE='database_name'
 ```
 
-- Then follow the below steps to get digital fortress up and running
+- Then follow the below steps to get glug_event up and running
 
 1. `git clone https://github.com/sumedharani12/glug_event.git`
 2. `sudo chmod 777 -R glug_event`
